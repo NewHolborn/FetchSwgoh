@@ -1,0 +1,10 @@
+V:\Bot\Fetch\Fetch\Fetch\bin\Debug\Fetch.exe.config
+V:\Bot\Fetch\Fetch\Fetch\bin\Debug\Fetch.exe
+V:\Bot\Fetch\Fetch\Fetch\bin\Debug\Fetch.pdb
+V:\Bot\Fetch\Fetch\Fetch\obj\Debug\Fetch.csprojResolveAssemblyReference.cache
+V:\Bot\Fetch\Fetch\Fetch\obj\Debug\Fetch.Form1.resources
+V:\Bot\Fetch\Fetch\Fetch\obj\Debug\Fetch.Properties.Resources.resources
+V:\Bot\Fetch\Fetch\Fetch\obj\Debug\Fetch.csproj.GenerateResource.Cache
+V:\Bot\Fetch\Fetch\Fetch\obj\Debug\Fetch.csproj.CoreCompileInputs.cache
+V:\Bot\Fetch\Fetch\Fetch\obj\Debug\Fetch.exe
+V:\Bot\Fetch\Fetch\Fetch\obj\Debug\Fetch.pdb
